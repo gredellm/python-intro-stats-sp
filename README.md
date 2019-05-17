@@ -4,6 +4,9 @@ Cal Poly senior project on conducting a healthy variety of statistical procedure
 
 ### Latest Changes:
 
+##### 5/7/19
+Added content to notebook on Bayesian statistics. Cleaned data, chose distributions to begin with as priors.
+
 ##### 4/16/19
 Initialized notebook on Bayesian statistics and the Symbulate package and added curry.csv dataset. 
 
